@@ -118,7 +118,6 @@ export const Navbar = () => {
 								Premium ✨
 							</Link>
 						)}
-
 						<ModeToggle />
 					</div>
 				</NavigationMenuList>
